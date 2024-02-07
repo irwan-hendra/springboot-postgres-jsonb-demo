@@ -7,3 +7,5 @@ There are multiple benefits of NOT serializing / deserializing the jsonb data ty
 - significantly reduce effort (to the tune of 3 weeks man-hours)
 - increased reuse, the code can be used in any kind of jsonb data type
 - simplify and reduce duplicate codes
+
+### To run: read the DemojsonbApplicationTests.java it's self explanatory
